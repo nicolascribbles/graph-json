@@ -1,6 +1,6 @@
 var projectName = 'bar-chart';
 localStorage.setItem('example_project', 'D3: Bar Chart');
-// coded by @Christian-Paul
+// coded by @Christian-Paul * Modified by Nicola Reyes
 
 var yMargin = 40,
 width = 800,
